@@ -3,9 +3,10 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.*" />
+    <option name="FILE_MASK" value="*.csproj" />
     <mask>*.xaml</mask>
     <mask>*.cs</mask>
     <mask>*.*</mask>
+    <mask>*.csproj</mask>
   </component>
 </application>
