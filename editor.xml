@@ -20,4 +20,7 @@
     <option name="IS_WHEEL_FONTCHANGE_ENABLED" value="true" />
     <option name="KEEP_TRAILING_SPACE_ON_CARET_LINE" value="false" />
   </component>
+  <component name="InlayHintsSettings">
+    <option name="enabled" value="false" />
+  </component>
 </application>
