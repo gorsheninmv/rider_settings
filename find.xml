@@ -7,5 +7,6 @@
     <mask>*.csproj</mask>
     <mask>*.*</mask>
     <mask>*.cs</mask>
+    <mask>*.resx</mask>
   </component>
 </application>
