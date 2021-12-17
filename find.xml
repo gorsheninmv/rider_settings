@@ -7,8 +7,8 @@
     <mask>*.csproj</mask>
     <mask>*.*</mask>
     <mask>*.cs</mask>
-    <mask>*.resx</mask>
     <mask>*.addin</mask>
     <mask>*.st</mask>
+    <mask>*.resx</mask>
   </component>
 </application>
