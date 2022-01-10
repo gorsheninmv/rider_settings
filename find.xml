@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'ICSharpCode.SharpDevelop'" />
-    <option name="defaultScopeName" value="Project 'ICSharpCode.SharpDevelop'" />
-    <option name="SEARCH_SCOPE" value="Project 'ICSharpCode.SharpDevelop'" />
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
+    <option name="SEARCH_SCOPE" value="Solution" />
     <mask>*.xaml</mask>
     <mask>*.*</mask>
     <mask>*.cs</mask>
