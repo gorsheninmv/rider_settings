@@ -3,14 +3,14 @@
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
     <option name="SEARCH_SCOPE" value="Solution" />
-    <option name="FILE_MASK" value="*.cs" />
+    <option name="FILE_MASK" value="*.resx" />
     <mask>*.xaml</mask>
     <mask>*.*</mask>
-    <mask>*.resx</mask>
     <mask>*.addin</mask>
     <mask>*.targets</mask>
     <mask>*.csproj</mask>
     <mask>*.st</mask>
     <mask>*.cs</mask>
+    <mask>*.resx</mask>
   </component>
 </application>
