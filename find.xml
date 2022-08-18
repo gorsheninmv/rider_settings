@@ -3,6 +3,7 @@
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
     <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.g.cs" />
     <mask>*.xaml</mask>
     <mask>*.*</mask>
     <mask>*.addin</mask>
@@ -15,5 +16,6 @@
     <mask>*.st</mask>
     <mask>xml</mask>
     <mask>sql</mask>
+    <mask>*.g.cs</mask>
   </component>
 </application>
