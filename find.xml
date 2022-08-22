@@ -16,5 +16,6 @@
     <mask>xml</mask>
     <mask>sql</mask>
     <mask>*.g.cs</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
