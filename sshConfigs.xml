@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="vagrant-alt-linux-9-1-server-gorshenin.comp.npo" id="5e1af553-5814-4c79-8e7a-aac4e040013e" port="22" nameFormat="DESCRIPTIVE" username="isrobot" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</application>
