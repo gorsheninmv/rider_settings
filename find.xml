@@ -3,7 +3,7 @@
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
     <option name="SEARCH_SCOPE" value="Solution" />
-    <mask>*.xaml</mask>
+    <option name="FILE_MASK" value="*.xaml" />
     <mask>*.*</mask>
     <mask>*.addin</mask>
     <mask>*.targets</mask>
@@ -17,5 +17,6 @@
     <mask>*.xml</mask>
     <mask>*.csproj</mask>
     <mask>Dockerfile</mask>
+    <mask>*.xaml</mask>
   </component>
 </application>
