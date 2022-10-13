@@ -3,6 +3,7 @@
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
     <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.csproj" />
     <mask>*.*</mask>
     <mask>*.addin</mask>
     <mask>*.targets</mask>
@@ -14,9 +15,9 @@
     <mask>sql</mask>
     <mask>*.g.cs</mask>
     <mask>*.xml</mask>
-    <mask>*.csproj</mask>
     <mask>Dockerfile</mask>
     <mask>*.xaml</mask>
     <mask>*.config</mask>
+    <mask>*.csproj</mask>
   </component>
 </application>
