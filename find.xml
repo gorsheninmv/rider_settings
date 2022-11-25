@@ -3,7 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.csproj" />
+    <option name="FILE_MASK" value="*.cs" />
     <mask>*.*</mask>
     <mask>*.addin</mask>
     <mask>*.targets</mask>
@@ -17,7 +17,7 @@
     <mask>*.xaml</mask>
     <mask>*.config</mask>
     <mask>Dockerfile</mask>
-    <mask>*.cs</mask>
     <mask>*.csproj</mask>
+    <mask>*.cs</mask>
   </component>
 </application>
