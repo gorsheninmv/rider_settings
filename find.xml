@@ -1,14 +1,14 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.st" />
     <mask>*.*</mask>
     <mask>*.addin</mask>
     <mask>*.targets</mask>
     <mask>*.resx</mask>
     <mask>*.mtd</mask>
-    <mask>*.st</mask>
     <mask>xml</mask>
     <mask>sql</mask>
     <mask>*.g.cs</mask>
@@ -18,5 +18,6 @@
     <mask>Dockerfile</mask>
     <mask>*.csproj</mask>
     <mask>*.cs</mask>
+    <mask>*.st</mask>
   </component>
 </application>
