@@ -3,6 +3,7 @@
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
     <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.st" />
     <mask>*.*</mask>
     <mask>*.targets</mask>
     <mask>*.resx</mask>
@@ -15,8 +16,8 @@
     <mask>*.config</mask>
     <mask>Dockerfile</mask>
     <mask>*.cs</mask>
-    <mask>*.st</mask>
     <mask>*.csproj</mask>
     <mask>*.addin</mask>
+    <mask>*.st</mask>
   </component>
 </application>
