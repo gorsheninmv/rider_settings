@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="customScope" value="Project 'Sungero.Workflow.Server'" />
+    <option name="defaultScopeName" value="Project 'Sungero.Workflow.Server'" />
+    <option name="SEARCH_SCOPE" value="Project 'Sungero.Workflow.Server'" />
     <option name="FILE_MASK" value="*.resx" />
     <mask>*.*</mask>
     <mask>*.targets</mask>
