@@ -3,6 +3,7 @@
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
     <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.mtd" />
     <mask>*.*</mask>
     <mask>*.targets</mask>
     <mask>xml</mask>
@@ -15,8 +16,8 @@
     <mask>*.cs</mask>
     <mask>*.addin</mask>
     <mask>*.st</mask>
-    <mask>*.mtd</mask>
     <mask>*.csproj</mask>
     <mask>*.resx</mask>
+    <mask>*.mtd</mask>
   </component>
 </application>
