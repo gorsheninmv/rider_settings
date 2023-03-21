@@ -3,12 +3,12 @@
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
     <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*Queries.xml" />
     <mask>*.*</mask>
     <mask>*.targets</mask>
     <mask>xml</mask>
     <mask>sql</mask>
     <mask>*.g.cs</mask>
-    <mask>*.xml</mask>
     <mask>*.xaml</mask>
     <mask>*.config</mask>
     <mask>Dockerfile</mask>
@@ -18,5 +18,7 @@
     <mask>*.mtd</mask>
     <mask>*.resx</mask>
     <mask>*.csproj</mask>
+    <mask>*.xml</mask>
+    <mask>*Queries.xml</mask>
   </component>
 </application>
