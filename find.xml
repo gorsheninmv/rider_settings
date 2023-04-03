@@ -8,16 +8,16 @@
     <mask>xml</mask>
     <mask>sql</mask>
     <mask>*.g.cs</mask>
-    <mask>*.xaml</mask>
     <mask>*.config</mask>
     <mask>Dockerfile</mask>
     <mask>*.cs</mask>
     <mask>*.addin</mask>
     <mask>*.st</mask>
     <mask>*.mtd</mask>
-    <mask>*.resx</mask>
     <mask>*.csproj</mask>
     <mask>*.xml</mask>
     <mask>*Queries.xml</mask>
+    <mask>*.xaml</mask>
+    <mask>*.resx</mask>
   </component>
 </application>
