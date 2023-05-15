@@ -5,6 +5,8 @@
       <mapping ext="st" type="AUTO_DETECTED" />
       <mapping ext="bat" type="PLAIN_TEXT" />
       <mapping ext="example" type="XML" />
+      <removed_mapping ext="inputactions" approved="true" type="JSON" />
+      <removed_mapping ext="tps" approved="true" type="XML" />
     </extensionMap>
   </component>
 </application>
