@@ -3,6 +3,7 @@
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
     <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.resx" />
     <mask>*.*</mask>
     <mask>*.targets</mask>
     <mask>xml</mask>
@@ -15,10 +16,10 @@
     <mask>*.xml</mask>
     <mask>*Queries.xml</mask>
     <mask>*.xaml</mask>
-    <mask>*.resx</mask>
     <mask>*.cs</mask>
     <mask>*Evaluator.cs</mask>
     <mask>*.csproj</mask>
     <mask>*.mtd</mask>
+    <mask>*.resx</mask>
   </component>
 </application>
