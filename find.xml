@@ -12,7 +12,6 @@
     <mask>Dockerfile</mask>
     <mask>*.addin</mask>
     <mask>*.st</mask>
-    <mask>*.mtd</mask>
     <mask>*.xml</mask>
     <mask>*Queries.xml</mask>
     <mask>*.xaml</mask>
@@ -20,5 +19,6 @@
     <mask>*.cs</mask>
     <mask>*Evaluator.cs</mask>
     <mask>*.csproj</mask>
+    <mask>*.mtd</mask>
   </component>
 </application>
