@@ -3,6 +3,7 @@
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
     <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.csproj" />
     <mask>*.*</mask>
     <mask>*.targets</mask>
     <mask>xml</mask>
@@ -17,9 +18,9 @@
     <mask>*.xaml</mask>
     <mask>*.cs</mask>
     <mask>*Evaluator.cs</mask>
-    <mask>*.csproj</mask>
-    <mask>*.mtd</mask>
     <mask>*.resx</mask>
     <mask>*Controller.cs</mask>
+    <mask>*.mtd</mask>
+    <mask>*.csproj</mask>
   </component>
 </application>
