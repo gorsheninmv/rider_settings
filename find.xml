@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
+    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.cs" />
     <mask>*.*</mask>
     <mask>*.targets</mask>
     <mask>xml</mask>
@@ -15,12 +16,12 @@
     <mask>*.xml</mask>
     <mask>*Queries.xml</mask>
     <mask>*.xaml</mask>
-    <mask>*.cs</mask>
     <mask>*Evaluator.cs</mask>
     <mask>*.resx</mask>
     <mask>*Controller.cs</mask>
     <mask>*.mtd</mask>
     <mask>*.csproj</mask>
     <mask>*.razor</mask>
+    <mask>*.cs</mask>
   </component>
 </application>
