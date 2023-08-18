@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.mtd" />
     <mask>*.*</mask>
     <mask>*.targets</mask>
     <mask>xml</mask>
@@ -18,9 +19,9 @@
     <mask>*Evaluator.cs</mask>
     <mask>*.resx</mask>
     <mask>*Controller.cs</mask>
-    <mask>*.mtd</mask>
     <mask>*.razor</mask>
     <mask>*.cs</mask>
     <mask>*.csproj</mask>
+    <mask>*.mtd</mask>
   </component>
 </application>
