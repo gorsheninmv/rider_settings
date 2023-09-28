@@ -16,11 +16,11 @@
     <mask>*Queries.xml</mask>
     <mask>*.xaml</mask>
     <mask>*Evaluator.cs</mask>
-    <mask>*.resx</mask>
     <mask>*Controller.cs</mask>
     <mask>*.razor</mask>
     <mask>*.cs</mask>
     <mask>*.csproj</mask>
     <mask>*.mtd</mask>
+    <mask>*.resx</mask>
   </component>
 </application>
