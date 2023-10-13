@@ -22,5 +22,6 @@
     <mask>*.csproj</mask>
     <mask>*.mtd</mask>
     <mask>*.resx</mask>
+    <mask>*.designer.cs</mask>
   </component>
 </application>
