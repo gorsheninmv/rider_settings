@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'DesignTimeMetadata'" />
-    <option name="defaultScopeName" value="Project 'DesignTimeMetadata'" />
-    <option name="SEARCH_SCOPE" value="Project 'DesignTimeMetadata'" />
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
+    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.st" />
     <mask>*.*</mask>
     <mask>*.targets</mask>
     <mask>xml</mask>
@@ -11,7 +12,6 @@
     <mask>*.config</mask>
     <mask>Dockerfile</mask>
     <mask>*.addin</mask>
-    <mask>*.st</mask>
     <mask>*.xml</mask>
     <mask>*Queries.xml</mask>
     <mask>*.xaml</mask>
@@ -23,5 +23,6 @@
     <mask>*.mtd</mask>
     <mask>*.resx</mask>
     <mask>*.designer.cs</mask>
+    <mask>*.st</mask>
   </component>
 </application>
