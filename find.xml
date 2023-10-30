@@ -1,8 +1,9 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
-    <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.yml" />
     <mask>*.*</mask>
     <mask>*.targets</mask>
     <mask>xml</mask>
@@ -23,5 +24,6 @@
     <mask>*.resx</mask>
     <mask>*.designer.cs</mask>
     <mask>*.st</mask>
+    <mask>*.yml</mask>
   </component>
 </application>
