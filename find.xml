@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.xaml" />
     <mask>*.*</mask>
     <mask>*.targets</mask>
     <mask>xml</mask>
@@ -13,7 +14,6 @@
     <mask>*.addin</mask>
     <mask>*.xml</mask>
     <mask>*Queries.xml</mask>
-    <mask>*.xaml</mask>
     <mask>*Evaluator.cs</mask>
     <mask>*Controller.cs</mask>
     <mask>*.razor</mask>
@@ -22,7 +22,8 @@
     <mask>*.mtd</mask>
     <mask>*.resx</mask>
     <mask>*.designer.cs</mask>
-    <mask>*.st</mask>
     <mask>*.yml</mask>
+    <mask>*.st</mask>
+    <mask>*.xaml</mask>
   </component>
 </application>
