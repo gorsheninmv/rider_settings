@@ -3,6 +3,7 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value=".csproj" />
     <mask>*.*</mask>
     <mask>*.targets</mask>
     <mask>xml</mask>
@@ -24,5 +25,7 @@
     <mask>*.xaml</mask>
     <mask>*.st</mask>
     <mask>*.yml</mask>
+    <mask>.targets</mask>
+    <mask>.csproj</mask>
   </component>
 </application>
