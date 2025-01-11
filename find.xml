@@ -1,0 +1,30 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Solution" />
+    <option name="defaultScopeName" value="Solution" />
+    <option name="SEARCH_SCOPE" value="Solution" />
+    <mask>*.*</mask>
+    <mask>*.targets</mask>
+    <mask>xml</mask>
+    <mask>sql</mask>
+    <mask>*.g.cs</mask>
+    <mask>*.config</mask>
+    <mask>Dockerfile</mask>
+    <mask>*.addin</mask>
+    <mask>*.xml</mask>
+    <mask>*Queries.xml</mask>
+    <mask>*Evaluator.cs</mask>
+    <mask>*Controller.cs</mask>
+    <mask>*.razor</mask>
+    <mask>*.cs</mask>
+    <mask>*.csproj</mask>
+    <mask>*.mtd</mask>
+    <mask>*.resx</mask>
+    <mask>*.designer.cs</mask>
+    <mask>*.xaml</mask>
+    <mask>.targets</mask>
+    <mask>.csproj</mask>
+    <mask>*.st</mask>
+    <mask>*.yml</mask>
+  </component>
+</application>
