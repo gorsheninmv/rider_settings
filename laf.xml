@@ -1,5 +1,9 @@
 <application>
   <component name="LafManager">
-    <laf themeId="RiderDay" />
+    <laf themeId="ExperimentalLight" />
+    <lafs-to-previous-schemes>
+      <laf-to-scheme laf="ExperimentalDark" scheme="PaperColor-Light copy1" />
+      <laf-to-scheme laf="ExperimentalLight" scheme="PaperColor-Light copy1" />
+    </lafs-to-previous-schemes>
   </component>
 </application>
