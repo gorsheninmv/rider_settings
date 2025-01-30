@@ -18,9 +18,6 @@
     <mouse-shortcut keystroke="shift control button1" />
   </action>
   <action id="Images.Thumbnails.EnterAction" />
-  <action id="InsertInlineCompletionAction">
-    <keyboard-shortcut first-keystroke="enter" />
-  </action>
   <action id="NextParameter" />
   <action id="NextTemplateParameter" />
   <action id="NextTemplateVariable" />

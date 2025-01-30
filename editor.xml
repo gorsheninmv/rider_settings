@@ -15,18 +15,6 @@
   <component name="CodeVisionSettings">
     <option name="enabled" value="false" />
   </component>
-  <component name="DeclarativeInlayHintsSettings">
-    <option name="providerIdToEnabled">
-      <map>
-        <entry key="js.chain.hints" value="true" />
-        <entry key="js.type.hints" value="true" />
-        <entry key="qodana.yaml.inspection.descriptions" value="true" />
-        <entry key="ts.chain.hints" value="true" />
-        <entry key="ts.enum.hints" value="true" />
-        <entry key="ts.type.hints" value="true" />
-      </map>
-    </option>
-  </component>
   <component name="EditorSettings">
     <option name="IS_ENSURE_NEWLINE_AT_EOF" value="true" />
     <option name="REMOVE_TRAILING_BLANK_LINES" value="true" />
@@ -39,12 +27,9 @@
   <component name="InlayHintsSettings">
     <option name="enabled" value="false" />
   </component>
-  <component name="InlineCompletionOnboarding">
-    <option name="onboardingFinished" value="true" />
-  </component>
   <component name="TodoConfiguration">
     <pattern pattern="\bNotImplementedException\b" />
-    <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG)(\W|$)(.*)" />
+    <pattern case-sensitive="true" pattern="(?&lt;=\W|^)(?&lt;TAG&gt;BUG:)(\W|$)(.*)" />
     <pattern pattern="(?&lt;=\W|^)(?&lt;TAG&gt;TODO)(\W|$)(.*)" />
   </component>
 </application>
