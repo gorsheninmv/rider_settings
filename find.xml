@@ -1,33 +1,20 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Solution" />
-    <option name="defaultScopeName" value="Solution" />
-    <option name="SEARCH_SCOPE" value="Solution" />
-    <option name="FILE_MASK" value="*.mtd" />
-    <mask>*.*</mask>
-    <mask>*.targets</mask>
-    <mask>xml</mask>
-    <mask>sql</mask>
-    <mask>*.g.cs</mask>
-    <mask>*.config</mask>
-    <mask>Dockerfile</mask>
-    <mask>*.addin</mask>
+    <option name="customScope" value="All Places" />
+    <option name="defaultScopeName" value="All Places" />
+    <option name="SEARCH_SCOPE" value="All Places" />
     <mask>*.xml</mask>
-    <mask>*Queries.xml</mask>
-    <mask>*Evaluator.cs</mask>
-    <mask>*Controller.cs</mask>
-    <mask>*.razor</mask>
-    <mask>*.cs</mask>
-    <mask>*.resx</mask>
-    <mask>*.designer.cs</mask>
-    <mask>*.xaml</mask>
-    <mask>.targets</mask>
-    <mask>.csproj</mask>
-    <mask>*.yml</mask>
-    <mask>*.tsx</mask>
-    <mask>*.st</mask>
-    <mask>*.csproj</mask>
-    <mask>*.props</mask>
-    <mask>*.mtd</mask>
+    <mask>*.css</mask>
+    <mask>*.htm</mask>
+    <mask>*.sht</mask>
+    <mask>*.shtm</mask>
+    <mask>*.shtml</mask>
+    <mask>*.html</mask>
+    <mask>*.mts</mask>
+    <mask>*.ats</mask>
+    <mask>*.cts</mask>
+    <mask>*.ts</mask>
+    <mask>*.cjs</mask>
+    <mask>*.js</mask>
   </component>
 </application>
