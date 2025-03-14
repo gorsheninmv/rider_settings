@@ -16,5 +16,7 @@
     <mask>*.ts</mask>
     <mask>*.cjs</mask>
     <mask>*.js</mask>
+    <mask>*.st</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
