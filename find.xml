@@ -3,6 +3,7 @@
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
     <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.st" />
     <mask>*.css</mask>
     <mask>*.htm</mask>
     <mask>*.sht</mask>
@@ -15,9 +16,9 @@
     <mask>*.ts</mask>
     <mask>*.cjs</mask>
     <mask>*.js</mask>
-    <mask>*.st</mask>
     <mask>*.xml</mask>
     <mask>*.resx</mask>
     <mask>*.ru.resx</mask>
+    <mask>*.st</mask>
   </component>
 </application>
