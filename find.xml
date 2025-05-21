@@ -3,6 +3,7 @@
     <option name="customScope" value="Solution" />
     <option name="defaultScopeName" value="Solution" />
     <option name="SEARCH_SCOPE" value="Solution" />
+    <option name="FILE_MASK" value="*.cs" />
     <mask>*.css</mask>
     <mask>*.htm</mask>
     <mask>*.sht</mask>
@@ -19,5 +20,6 @@
     <mask>*.resx</mask>
     <mask>*.ru.resx</mask>
     <mask>*.st</mask>
+    <mask>*.cs</mask>
   </component>
 </application>
