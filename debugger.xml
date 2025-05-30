@@ -9,7 +9,14 @@
     <debuggers>
       <debugger id="dotnet_debugger">
         <configuration>
-          <option name="breakOnUserUnhandledExceptions" value="true" />
+          <option name="userUnhandledExceptionsIgnoreList">
+            <list>
+              <option value="System.OperationCanceledException" />
+              <option value="System.Threading.Tasks.TaskCanceledException" />
+              <option value="System.Threading.ThreadAbortException" />
+              <option value="Sungero.Development.Common.Utils.DevelopmentException" />
+            </list>
+          </option>
           <option name="sshCredentials">
             <option value="&lt;credentials HOST=&quot;vagrant-alt-linux-9-1-server-gorshenin.comp.npo&quot; PORT=&quot;22&quot; USERNAME=&quot;isrobot&quot; PRIVATE_KEY_FILE=&quot;&quot; USE_KEY_PAIR=&quot;false&quot; USE_AUTH_AGENT=&quot;false&quot; /&gt;" />
           </option>
