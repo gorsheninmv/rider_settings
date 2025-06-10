@@ -2,6 +2,7 @@
   <component name="SshConfigs">
     <configs>
       <sshConfig authType="PASSWORD" host="vagrant-alt-linux-9-1-server-gorshenin.comp.npo" id="5e1af553-5814-4c79-8e7a-aac4e040013e" port="22" nameFormat="DESCRIPTIVE" username="isrobot" useOpenSSHConfig="true" />
+      <sshConfig authType="PASSWORD" host="vagrant-ubuntu-22-04-desktop-kostin" id="1528e595-e4ab-419f-9779-83ede846a730" port="22" nameFormat="DESCRIPTIVE" username="isrobot" useOpenSSHConfig="true" />
     </configs>
   </component>
 </application>
