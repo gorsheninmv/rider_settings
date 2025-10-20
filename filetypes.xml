@@ -8,6 +8,7 @@
       <removed_mapping ext="inputactions" approved="true" type="JSON" />
       <removed_mapping ext="pdf" approved="true" type="Native" />
       <removed_mapping ext="tps" approved="true" type="XML" />
+      <removed_mapping ext="tps" approved="true" type="XML" />
     </extensionMap>
   </component>
 </application>

@@ -5,8 +5,8 @@
   <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
   <colors>
-    <option name="CARET_ROW_COLOR" value="ededed" />
-    <option name="LINE_NUMBERS_COLOR" value="acacac" />
+    <option name="CARET_ROW_COLOR" value="EDEDED" />
+    <option name="LINE_NUMBERS_COLOR" value="ACACAC" />
   </colors>
   <attributes>
     <option name="ANNOTATION_NAME_ATTRIBUTES">

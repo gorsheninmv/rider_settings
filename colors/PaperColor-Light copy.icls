@@ -13,9 +13,9 @@
   <option name="EDITOR_LIGATURES" value="true" />
   <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
   <colors>
-    <option name="CARET_ROW_COLOR" value="ededed" />
-    <option name="LINE_NUMBERS_COLOR" value="acacac" />
-    <option name="WHITESPACES" value="ff0000" />
+    <option name="CARET_ROW_COLOR" value="EDEDED" />
+    <option name="LINE_NUMBERS_COLOR" value="ACACAC" />
+    <option name="WHITESPACES" value="FF0000" />
   </colors>
   <attributes>
     <option name="ANNOTATION_NAME_ATTRIBUTES">
