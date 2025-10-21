@@ -8,7 +8,7 @@
         <parameter-pattern value="%\((\w+)\)s" in-scripts="true" scope="Python" predefined="%(name)s" />
         <parameter-pattern value="%\w+" in-scripts="true" scope="JAVA,Python,PHP" predefined="%name" />
         <parameter-pattern value="\:\'.*\'" in-scripts="true" scope="PostgreSQL" predefined=":'name'" />
-        <parameter-pattern value="(?&lt;![@&lt;])@[a-zA-Z0-9_]+" in-scripts="true" scope="C#, F#, -GenericSQL, -Oracle, -SQL92, -CassandraQL, -ClickHouse, -DB2, -DB2, -DB2_IS, -DB2_ZOS, -Derby, -Exasol, Greenplum, -H2, -HiveQL, -HSQLDB, -MariaDB, -TSQL, -AZURE, -MySQL, -MySQL, -MySQL, -OracleSqlPlus, PostgreSQL, Redshift, Snowflake, -SparkSQL, -SQLite, -Sybase, Vertica, -BigQuery, -CouchbaseQuery, -MongoDB, Cockroach, -Redis, -Dynamo" predefined="@name" />
+        <parameter-pattern value="(?&lt;![@&lt;])@[a-zA-Z0-9_]+" in-scripts="true" scope="C#, F#, -GenericSQL, -Oracle, -Redis, -TSQL, -AZURE, -SQLite, -MySQL, -MySQL, -MySQL, -MariaDB, PostgreSQL, -SQL92, -OracleSqlPlus, -NetSuite, -CassandraQL, -ClickHouse, -DB2, -DB2, -DB2_IS, -DB2_ZOS, -Derby, -Exasol, Greenplum, -H2, -HiveQL, -HSQLDB, Redshift, Snowflake, -SparkSQL, -Databricks, -Sybase, Vertica, -BigQuery, -CouchbaseQuery, -MongoDB, Cockroach, -Dynamo" predefined="@name" />
         <parameter-pattern value="\$\{([^\{\}]*)\}" in-scripts="true" predefined="${name}" />
         <parameter-pattern value="\$\(([^\)]+)\)" in-scripts="true" predefined="$(name)" />
       </parameter-patterns>
