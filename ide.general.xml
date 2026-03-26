@@ -8,7 +8,6 @@
     <entry key="ide.experimental.ui" value="true" source="SYSTEM" />
     <entry key="ide.mac.bigsur.window.with.tabs.enabled" value="false" source="SYSTEM" />
     <entry key="moved.to.new.ui" value="true" source="SYSTEM" />
-    <entry key="idea.islands.feedback2.enabled" value="false" source="MANAGER" />
   </component>
   <component name="StatusBar">
     <option name="widgets">
